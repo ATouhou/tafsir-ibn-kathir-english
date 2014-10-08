@@ -19,7 +19,7 @@ INSERT INTO `Quran`
   (`DatabaseID`, `SuraID`, `VerseID`, `AyahText`)
 VALUES
   (8168, 27, 0, '...Tafsir of chapter introduction...'),
-  (8168, 27, 0, '...Tafsir of first ayah')
+  (8168, 27, 1, '...Tafsir of first ayah')
   ...
   (8168, 27, 93, '...Tafsir of last ayah');
 ```
