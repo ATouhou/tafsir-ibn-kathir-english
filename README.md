@@ -13,7 +13,7 @@ This repository is shared work to compile Tafsir Ibn Kathir in English in SQL fo
 
 Please use following line for each ayah, do not change DatabaseID.
 
-```
+```SQL
 INSERT INTO `Quran`
   (`SuraID`, `VerseID`, `AyahText`)
 VALUES
@@ -23,6 +23,10 @@ VALUES
   (27, 93, '...Tafsir of last ayah');
 ```
 
-May Allah SWT help us in finishing this compilation. Your rewards and my rewards are with Allah SWT, The Most Knowing and The Most Wise
+## Why?
+
+You may ask, why should I compile (or help compile) when there are tafaseer online that we can access? Well, aim of Muflihun is to centralize all major tafaseer in to single platform. This will in sha' Allah help many Muslims to learn Qur'an, with high quality data, while they do not have to do much effort looking for authentic data, it will be available at their fingertips (bay iznillahi ta'ala). Why should you do it? Well, who knows, how many Muslims will benefit from it, except the Most Knowing, Allah Subhanahu wa ta'ala, and He Subhanahu wa ta'ala will not do you injustice in rewarding you. He is Most Just!
+
+May Allah Subhanahu wa ta'ala help us in finishing this compilation. Your rewards and my rewards are with Allah Subhanahu wa ta'ala, The Most Knowing and The Most Wise.
 
 Jazakummlahu Khairan
