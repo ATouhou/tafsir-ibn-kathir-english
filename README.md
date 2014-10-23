@@ -6,8 +6,8 @@ This repository is shared work to compile Tafsir Ibn Kathir in English in SQL fo
 
  * Each SQL file will represent a surah. Each filename will be zero padded with 3 characters e.g., 027.sql will represent tafsir of An-Naml
  * Each `INSERT` statement will represent tafsir for corresponding ayah
- * Please DO NOT put chapter introduction in tafsir of first ayah, use ayah 0.
- * Put arabic texts in separate lines (as per darrussalam way) and must be wrapped in `<span class="arabic tafsir-arabic-script">` (spans are on separate lines as well)
+ * Please DO NOT put chapter introduction in tafsir of first ayah. Use a separate file inside the `intro` folder
+ * Please look at completed ones to ensure you are doing it right
  * Do not change database ID, leave it to `8168`
 
 ## Format
@@ -18,7 +18,6 @@ Please use following line for each ayah, do not change DatabaseID.
 INSERT INTO `Quran`
   (`DatabaseID`, `SuraID`, `VerseID`, `AyahText`)
 VALUES
-  (8168, 27, 0, '...Tafsir of chapter introduction...'),
   (8168, 27, 0, '...Tafsir of first ayah')
   ...
   (8168, 27, 93, '...Tafsir of last ayah');
