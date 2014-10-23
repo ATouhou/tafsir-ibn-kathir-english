@@ -18,7 +18,9 @@ Please use following line for each ayah, do not change DatabaseID.
 INSERT INTO `Quran`
   (`DatabaseID`, `SuraID`, `VerseID`, `AyahText`)
 VALUES
-  (8168, 27, 0, '...Tafsir of first ayah')
+  (8168, 27, 0, '...Tafsir of chapter introduction...'),
+  (8168, 27, 1, '...Tafsir of first ayah')
+>>>>>>> 7d415e126db7b2497fa872a2fa60b608b653ff59
   ...
   (8168, 27, 93, '...Tafsir of last ayah');
 ```
