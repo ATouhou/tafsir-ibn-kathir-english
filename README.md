@@ -7,12 +7,14 @@ This repository is shared work to compile Tafsir Ibn Kathir in English in SQL fo
  * Each SQL file will represent a surah. Each filename will be zero padded with 3 characters e.g., 027.sql will represent tafsir of An-Naml
  * Each statement will represent tafsir for corresponding ayah
  * Please DO NOT put chapter introduction in tafsir of first ayah. Use a separate file inside the `intro` folder
- * Please look at completed ones to ensure you are doing it right
+ * Please look at completed ones to ensure you are doing it right (`051.sql` for example)
  * Put `<span class="taf-ay-end"></span>` at the end of each ayah
  * Each arabic (Quran) should be in format e.g, `<span class="taf-ref-3 taf-arb taf-qur">(۲) فالحاملات وقرا</span>` (with these classes) - for hadith use `taf-had` class
  * Each translation of Quran should be `<span class="taf-ref-3 taf-tr taf-tr-qur">And laden Hamilat</span>` - for hadith use `taf-tr-had` class
  * Escape single quotes characters e.g, `\'`
  * Do not change ID, leave it to `1000`
+ * Please do not forget to add footnote on each page e.g, `<span class="taf-foot"><span class="t">Ahmed 2:173</span></span>`
+ * Add link to other ayahs by `<a class="footnote-qref-link">SURAH:AYAH (or RANGE OF AYAHS)</a>` e.g, `<a class="footnote-qref-link">12:98-99</a>`
 
 ## Format
 
@@ -28,6 +30,12 @@ Please use following line for each ayah, do not change DatabaseID.
     <span class="taf-ay-end"></span>
   ');
 ```
+
+## Volume Page Map
+
+This is another useful data that is used in muflihun.com.
+Format is: "VOLUME:PAGE"
+Each element represent ayah starting with ayah zero that represents introductory page in Tafsir Ibn Kathir (Darussalam - Abridged)
 
 ## Contribute
 
