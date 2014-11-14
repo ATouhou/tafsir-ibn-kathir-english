@@ -81,7 +81,33 @@ Al-Kharrasun are those who claim that they will never be brought back to life, d
 <br/>
 \`Ali bin Abi Talhah reported from Ibn \`Abbas;
 <span class="taf-ref-3 taf-arb taf-qur">(۱۰) قتل الخراصون</span>
-<span class="taf-ref-3 taf-tr taf-tr-qur">Cursed be Al-Kharrasun</span>  "Cursed be the doubters."<span class="taf-foot"><span class="n">6</span><span class="t">At-Tabari 22:400</span></span> Mu\`adh said similarly, may Allah be pleased with him. During one of his speeches he said, "Destroyed be the doubters." Qatadah said, "Al-Kharrasun are the pople of doubt and suspicion."<span class="taf-foot"><span class="n">7</span><span class="t">At-Tabari 22:400-401</span></span>
+<span class="taf-ref-3 taf-tr taf-tr-qur">Cursed be Al-Kharrasun</span>  "Cursed be the doubters."<span class="taf-foot"><span class="n">6</span><span class="t">At-Tabari 22:399</span></span> Mu\`adh said similarly, may Allah be pleased with him. During one of his speeches he said, "Destroyed be the doubters." Qatadah said, "Al-Kharrasun are the pople of doubt and suspicion."<span class="taf-foot"><span class="n">7</span><span class="t">At-Tabari 22:400</span></span>
+<span class="taf-ay-end"></span>
+'),
+(1000, 51, 11, '
+Allah said,
+<span class="taf-ref-3 taf-arb taf-qur">(۱۱) الذين هم في غمرة ساهون</span>
+<span class="taf-ref-3 taf-tr taf-tr-qur">Who are under a cover of Sahun</span> Ibn `Abbas, may Allah be pleased with him, and others said; "In disbelief and doubt, they are heedless and playful."<span class="taf-foot"><span class="n">8</span><span class="t">At-Tabari 22:400-401</span></span>
+<span class="taf-ay-end"></span>
+'),
+(1000, 51, 12, '
+Allah said,
+<span class="taf-ref-3 taf-arb taf-qur">(۱۲) يسألون أيان يوم الدين</span>
+<span class="taf-ref-3 taf-tr taf-tr-qur">They ask: "When will be the Day of Ad-Din?"</span> They utter this statement in denial, stubbornness, doubt and suspicion.
+<span class="taf-ay-end"></span>
+'),
+(1000, 51, 13, '
+Allah the Exalted replied,
+<span class="taf-ref-3 taf-arb taf-qur">(۱۳) يوم هم على النار يفتنون</span>
+<span class="taf-ref-3 taf-tr taf-tr-qur">(It will be) a Day when they will be Yuftanun in the Fire</span> Ibn `Abbas, Mujahid, Al-Hasan and several others said that Yuftanun means punished.<span class="taf-foot"><span class="n">9</span><span class="t">At-Tabari 22:402</span></span> Mujahid said: "Just as gold is forged in the fire"<span class="taf-foot"><span class="n">10</span><span class="t">At-Tabari 22:402</span></span> A group of others also including Mujahid, Ikrimah, Ibrahim An-Nakha\`i, Zayd bin Aslam, and Sufyan Ath-Thawri said, "They will be burnt."
+<span class="taf-ay-end"></span>
+'),
+(1000, 51, 14, '
+Allah the Exalted replied,
+<span class="taf-ref-3 taf-arb taf-qur">ذوقوا فتنتكم</span>
+<span class="taf-ref-3 taf-tr taf-tr-qur">Taste you your trial!</span> Mujahid said, "Your burning"<span class="taf-foot"><span class="n">11</span><span class="t">At-Tabari 22:403</span></span> while others said, "Your punishment."
+<span class="taf-ref-3 taf-arb taf-qur">هذا الذي كنتم به تستعجلون</span>
+<span class="taf-ref-3 taf-tr taf-tr-qur">This is what you used to ask to be hastened!</span> This will be said admonishing, chastising, humiliating and belittling them. Allah knows best.
 <span class="taf-ay-end"></span>
 ')
 
