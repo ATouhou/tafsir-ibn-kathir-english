@@ -1,5 +1,7 @@
 As-Salaamu ’Alaikum Wa-Rahmatullaahi Wa-Barakaatuh,
 
+**PLEASE NOTE: We are changing the format to non-HTML so that it can be used in other devices. Please do not add anything until new format is published.**
+
 This repository is shared work to compile Tafsir Ibn Kathir in English in SQL format.
 
 ## Keynotes:
