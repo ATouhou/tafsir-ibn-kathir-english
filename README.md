@@ -33,6 +33,9 @@ Please use following line for each ayah, do not change DatabaseID.
   ');
 ```
 
+## How Does It Loop
+Please visit [this link](http://muflihun.com/51?sty=0&notrans&tafid=1000) to see live demo
+
 ## Volume Page Map
 
 This is another useful data that is used in muflihun.com.
